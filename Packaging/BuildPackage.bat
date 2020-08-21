@@ -1,4 +1,4 @@
-set SOURCEDIR=..\Cortex-Command-Community-Project-Source
+set SOURCEDIR=..\..\Cortex-Command-Community-Project-Source
 set DATADIR=..\..\Cortex-Command-Community-Project-Data
 set TARGETDIR=..\..\Cortex-Command-Community-Project-Release
 set ORIGDIR=%cd%
