@@ -62,7 +62,7 @@ def LoadParametersFromCsv(input_file_name):
 			result[full_parameter_name]["value"] = parameter_value
 			result[full_parameter_name]["applied"] = False
 
-			print (preset_name, parameter, parameter_value)
+			#print (preset_name, parameter, parameter_value)
 
 	file.close()
 
