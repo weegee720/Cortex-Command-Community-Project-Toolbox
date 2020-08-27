@@ -3,15 +3,15 @@
 #		Evgeniy Vigovskiy aka Weegee
 #
 #	Version:
-#		1.0
+#		1.1
 #
 #	Usage:
 #		Merge all .INI file from the module into single file	
 #
-#		MergeDataModule.py <module.rte>
+#		MergeDataModule.py <Cortex Command Data Dirctory><module.rte>
 #
 #	Example:
-#		MergeDataModule.py Psyclones.rte
+#		MergeDataModule.py ..\..\Cortex-Command-Community-Project-Release Psyclones.rte
 #
 #	Warning:
 #		This priimitive tool simply dumps all the contents of the ini files into single file to speed-up load times. 

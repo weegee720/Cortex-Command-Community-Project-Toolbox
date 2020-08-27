@@ -1,0 +1,5 @@
+Entity;Parameter;Value;;;;;;;;;;;;;;;;;;;
+Base.rte/Brain Robot;GibWoundLimit;30;;;;;;;;;;;;;;;;;;;
+Base.rte/Air;Bounce;1;;;;;;;;;;;;;;;;;;;
+Base.rte/Dropship MK1;Mass;1000;;;;;;;;;;;;;;;;;;;
+Base.rte/Brainbot Stand Path;PushForce;1000;;;;;;;;;;;;;;;;;;;

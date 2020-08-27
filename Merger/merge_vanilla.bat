@@ -1,4 +1,4 @@
-SET DATADIR=..\..\Cortex-Command-Community-Project-Data
+SET DATADIR=..\..\Cortex-Command-Community-Project-Release
 
 python.exe MergeDataModule.py %DATADIR% Base.rte
 python.exe MergeDataModule.py %DATADIR% Dummy.rte
