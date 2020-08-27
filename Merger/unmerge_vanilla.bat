@@ -1,4 +1,4 @@
-SET DATADIR=..\..\Cortex-Command-Community-Project-Data
+SET DATADIR=..\..\Cortex-Command-Community-Project-Release
 
 del %DATADIR%\Base.rte\MergedIndex.ini
 del %DATADIR%\Dummy.rte\MergedIndex.ini
